@@ -1,7 +1,37 @@
 # tensorflow_files
 
--> Core ML Algos: core_algos.ipynb
+-> CNNs: 
 
--> CNN: rock_paper_scissor_classifier.ipynb (CompVision)
+	- rock_paper_scissor_classifier.ipynb
 
--> RNN: sarcasm_classifier.ipynb (NLP)
+	- cnn_tf.ipynb (basic CNN building)
+
+	- image_augmentation_tf.ipynb
+
+	- object_detection_tf.ipynb
+
+	- transfer_learning_tfhub.ipynb
+
+
+-> RNNs: 
+
+	- sarcasm_classifier.ipynb
+
+	- machine_translation_rnn.ipynb
+
+	- poetry_generatot_rnn.ipynb
+
+	- rnn_tf.ipynb (generic RNN building)
+
+	- time_series_forecasting.ipynb
+
+
+-> Others: 
+
+	- core_algos.ipynb (ML algos using TF)
+
+	- ffnn_tf.ipynb (Feed Forward NN)
+
+	- image_captioning_encdec.ipynb (Image Captioning Encoder Decoder Model)
+
+	- reinforcement_learning.ipynb (Q-Learning Model)
