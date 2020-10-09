@@ -19,7 +19,7 @@
 
 	- machine_translation_rnn.ipynb
 
-	- poetry_generatot_rnn.ipynb
+	- poetry_generator_rnn.ipynb
 
 	- rnn_tf.ipynb (generic RNN building)
 
@@ -35,3 +35,5 @@
 	- image_captioning_encdec.ipynb (Image Captioning Encoder Decoder Model)
 
 	- reinforcement_learning.ipynb (Q-Learning Model)
+
+	- autoencoder_tf.ipynb (Regenerating, Denoising and Error Detecting autoencoder)
