@@ -12,7 +12,7 @@
 
 	- transfer_learning_tfhub.ipynb
 
-	- image_segmentation_tf.ipynb ( performing segmentation on Oxford IIIT Pets Dataset)
+	- image_segmentation_tf.ipynb (performing segmentation on Oxford IIIT Pets Dataset)
 
 
 -> RNNs: 
