@@ -27,6 +27,8 @@
 
 	- time_series_forecasting.ipynb
 
+	- transformer_nmt.ipynb (contains transformer model to translate from PT to EN) (buggy)
+
 
 -> Others: 
 
