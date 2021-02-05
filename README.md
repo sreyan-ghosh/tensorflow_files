@@ -14,6 +14,8 @@
 
 	- image_segmentation_tf.ipynb (performing segmentation on Oxford IIIT Pets Dataset)
 
+	- audio_analysis_cnn.ipynb (simple audio recognition using STFT and CNNs)
+
 
 -> RNNs: 
 
