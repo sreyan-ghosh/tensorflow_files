@@ -43,3 +43,5 @@
 	- reinforcement_learning.ipynb (Q-Learning Model)
 
 	- autoencoder_tf.ipynb (Regenerating, Denoising and Error Detecting autoencoder)
+
+	- audio_transfer_learning.ipynb (Using the YAMNet model to get the embeddings on which we train our own model for classifying animal sounds)
